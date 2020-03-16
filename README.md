@@ -1,6 +1,8 @@
-# Simple Discord Bot Template
+# Simple Announcement Discord Bot for RSS in Node JS
 
 ## About
+Using UoA RSS Feed for canvas announcements for Discord Server with friends
+
 This is a rather simple Discord bot built on [node.js](https://nodejs.org) using the [Discord.js](https://github.com/hydrabolt/discord.js) api.
 
 
